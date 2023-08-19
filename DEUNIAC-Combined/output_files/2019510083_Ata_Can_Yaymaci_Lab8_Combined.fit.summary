@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Jun 26 23:35:12 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : 2019510083_Ata_Can_Yaymaci_Lab8_Combined
+Top-level Entity Name : 2019510083_Ata_Can_Yaymaci_Deuniac
+Family : Cyclone III
+Device : EP3C5F256C6
+Timing Models : Final
+Total logic elements : 161 / 5,136 ( 3 % )
+    Total combinational functions : 159 / 5,136 ( 3 % )
+    Dedicated logic registers : 44 / 5,136 ( < 1 % )
+Total registers : 44
+Total pins : 71 / 183 ( 39 % )
+Total virtual pins : 0
+Total memory bits : 426 / 423,936 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
